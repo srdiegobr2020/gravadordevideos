@@ -1,0 +1,7 @@
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.csprojAssemblyReference.cache
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.Main.resources
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.frmSetting.resources
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.Properties.Resources.resources
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.URLForm.resources
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.csproj.GenerateResource.cache
+C:\Users\SoftwareS\source\repos\ScreenWareS\ScreenWareS\obj\Release\ScreenWareS.csproj.CoreCompileInputs.cache
